@@ -1,2 +1,3 @@
-# Quiz n° 3 du cours OpenClassrooms d'installation de Eclipse pour Java
-Dépôt pour le quiz du cours OpenClassrooms "Installez votre environnement de développement Java avec Eclipse". Il contient des erreurs de syntaxe et des bugs. Bon courage...
+# Quiz n° 3 du cours : il contenait des erreurs de syntaxe et des bugs : fork, clone, import, correct and pull request
+
+Cours introductif OpenClassrooms "Installez votre environnement de développement Java avec Eclipse, Git, GitHub"
